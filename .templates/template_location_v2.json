@@ -1,0 +1,10 @@
+[
+  {
+    "repoPath": "https://github.com/kelsk/branch-test.git",
+    "directoryPath": "app",
+    "templatePath": "hello-world",
+    "templateName": "Main: app/hello-world",
+    "templateLanguages": ["nodejs"],
+    "runPlatforms": ["cloudrun"]
+  }
+  ]
