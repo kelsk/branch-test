@@ -1,0 +1,22 @@
+{
+   "metadata":{
+      "version":"1"
+   },
+   "templates":[
+      {
+         "path":"",
+         "name":"Root",
+         "description":"Root Github directory",
+         "languages":[
+         ]
+      },
+      {
+         "path":"app",
+         "name":"App",
+         "description":"sample app in root",
+         "languages":[
+           "nodejs"
+         ]
+      }
+   ]
+}
